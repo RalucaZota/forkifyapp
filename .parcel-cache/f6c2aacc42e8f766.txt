@@ -1,21 +1,19 @@
-7747
+7681
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\string\includes.js133080709697750945 0
 76C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lmdb\node-index.js133080564538804029 0
 52C:\Users\User\Desktop\JS PRACTICA\18-forkify\._final133009189260000000 0
 72C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\domelementtype133080564531542736 1
 74C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\map133080709727592812 1
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\regexp\test.js133080709722520822 0
-54C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src133009903862455229 1
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\typed-array\reverse.js133080709716874493 0
 65C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\sass\._main.scss133009189260000000 0
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\node-addon-api\package.json133080564533557352 0
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\cache\lib\IDBCache.js133080564530824664 0
-57C:\Users\User\Desktop\JS PRACTICA\18-forkify\package.json133081356329192015 0
+57C:\Users\User\Desktop\JS PRACTICA\18-forkify\package.json133090052498224091 0
 75C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lmdb\util\when.js133080564538883827 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\string\virtual\trim-left.js133080709725451395 0
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\sass\types\value\number.d.ts133080555183151997 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\instance\slice.js133080709718754475 0
-70C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\img\._icons.svg133009189300000000 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\regions\BM.js133080564537377847 0
 75C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\type-fest\license133080564527084673 0
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\iterator\for-each.js133080709692156842 0
@@ -37,7 +35,7 @@
 54C:\Users\User\Desktop\JS PRACTICA\18-forkify\._starter133009189220000000 0
 70C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\import-fresh133080564529398477 1
 97C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\dommatrix.js133080564540868518 0
-65C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\controller.js133083319936061078 0
+65C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\controller.js133085109867071591 0
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\math\log10.js133080709707751408 0
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\src\public\Bundle.js133080564535532773 0
 99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\test\fixtures\custom-targets133080564540319972 1
@@ -47,7 +45,7 @@
 106C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\source-map-support\browser-source-map-support.js133080564527503535 0
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@jridgewell\set-array\LICENSE133080564527024811 0
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\escape-string-regexp\license133080564528131850 0
-49C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist133083115689076732 1
+49C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist133090051124415595 1
 75C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\sass\.__searchResults.scss133009189260000000 0
 83C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\terser\lib\utils\index.js133080564535652457 0
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\es.reflect.apply.js133080709679792444 0
@@ -55,22 +53,6 @@
 101C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\es.typed-array.to-string.js133080709682654796 0
 113C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133080564537068667 0
 48C:\Users\User\Desktop\JS PRACTICA\18-forkify\src133009903855289528 1
-82C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\lib\_jsx.js133080564536829318 0
-62C:\Users\User\Desktop\JS PRACTICA\18-forkify\package-lock.json133081356329177405 0
-94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\lib\_define_property.js133080564535941683 0
-99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\node-gyp-build-optional-packages\index.js133080564528760180 0
-84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\dom-exception133080709724781517 1
-106C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133080564537318006 0
-73C:\Users\User\Desktop\JS PRACTICA\18-forkify\forkify-flowchart-part-3.png132886955200000000 0
-87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\composite-key.js133080709671518213 0
-66C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\svgo\bin133080564527742904 1
-91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\array\last-index-of.js133080709706702656 0
-50C:\Users\User\Desktop\JS PRACTICA\18-forkify\final133009903858439034 1
-81C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\symbol133080709727273690 1
-98C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\instance\group-by-to-map.js133080709695200552 0
-91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\syntax\node\Ratio.js133080564538365208 0
-83C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@types\parse-json\LICENSE133080564527074696 0
-63C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\tslib133080564532370527 1
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\esnext.set.union.js133080709685277794 0
 118C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\htmlnano\docs\versioned_sidebars\version-1.1.1-sidebars.json133080564536510175 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\type-fest\ts41\snake-case.d.ts133080564535213630 0
@@ -84,7 +66,7 @@
 79C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\picomatch\lib\scan.js133080555181021777 0
 112C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\react-refresh\cjs\react-refresh-runtime.development.js133080564530535435 0
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\proposals\array-flat-map.js133080709668181311 0
-75C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\views\paginationView.js133082579408975983 0
+75C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\views\paginationView.js133085121772630980 0
 99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\src\_array_without_holes.mjs133080564538016141 0
 90C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\cosmiconfig\dist\getDirectory.js133080564530615217 0
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\forkify-architecture-recipe-loading.png132886955200000000 0
@@ -95,6 +77,15 @@
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\es.symbol.replace.js133080709681527804 0
 104C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@jridgewell\trace-mapping\dist\types\sort.d.ts133080564532799379 0
 73C:\Users\User\Desktop\JS PRACTICA\18-forkify\forkify-flowchart-part-2.png132886955200000000 0
+82C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\lib\_jsx.js133080564536829318 0
+62C:\Users\User\Desktop\JS PRACTICA\18-forkify\package-lock.json133081356329177405 0
+94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\lib\_define_property.js133080564535941683 0
+99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\node-gyp-build-optional-packages\index.js133080564528760180 0
+84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\dom-exception133080709724781517 1
+106C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133080564537318006 0
+73C:\Users\User\Desktop\JS PRACTICA\18-forkify\forkify-flowchart-part-3.png132886955200000000 0
+87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\composite-key.js133080709671518213 0
+66C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\svgo\bin133080564527742904 1
 62C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\.bin133080564551009752 1
 121C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg133080564538006168 1
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\set\index.js133080709701311281 0
@@ -102,14 +93,16 @@
 106C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\esnext.observable.constructor.js133080709684799062 0
 97C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\object\set-prototype-of.js133080709717644678 0
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\terser\node_modules\commander\typings133080564530764813 1
-55C:\Users\User\Desktop\JS PRACTICA\18-forkify\index.html133082301201049044 0
+55C:\Users\User\Desktop\JS PRACTICA\18-forkify\index.html133083453183353844 0
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\array\concat.js133080709671632088 0
 71C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\node-releases133080564530625193 1
 104C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\internals\well-known-symbol-wrapped.js133080709728952277 0
+76C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\.package-lock.json133081356329542495 0
+89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\promise\any.js133080709667882114 0
 134C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser\main.js133080564536998856 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\posthtml-parser\dist\index.d.ts133080564531572653 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\typed-array\to-locale-string.js133080709723583142 0
-74C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\views\addRecipeView.js133083321711751644 0
+74C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\views\addRecipeView.js133085118262226324 0
 76C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\json5\lib\parse.js133080564531113886 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\instance\replace-all.js133080709716545390 0
 57C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules133081356328055088 1
@@ -136,7 +129,7 @@
 80C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\safe-buffer\index.d.ts133080564530216289 0
 90C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\string\replace.js133080709716615188 0
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\math\to-string-tag.js133080709724861288 0
-72C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\views\resultsView.js133083275699593304 0
+72C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\views\resultsView.js133085112787322755 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\regexp\flags.js133080709690490546 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\set-immediate.js133080709717485100 0
 67C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\sass\_preview.scss132886955200000000 0
@@ -145,7 +138,7 @@
 82C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\entities\lib\decode.d.ts133080564534435000 0
 90C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\nth-check\lib\esm\compile.js.map133080564532679696 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\array\virtual\keys.js133080709706459344 0
-71C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\views\recipeView.js133083283692227626 0
+71C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\views\recipeView.js133085113382988929 0
 104C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\esnext.reflect.has-metadata.js133080709684988544 0
 90C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\string\replace-all.js133080709716405426 0
 76C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\json5\package.json133080564532729559 0
@@ -214,7 +207,6 @@
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\date\to-iso-string.js133080709723383683 0
 53C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\._js133009189240000000 0
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\typed-array\to-string.js133080709725150511 0
-77C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views\recipeView.js132886955200000000 0
 75C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\source-map-js\lib133080555181330949 1
 115C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@jridgewell\gen-mapping\dist\types\sourcemap-segment.d.ts133080564532530101 0
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\weak-lru-cache\tests\test.js133080564530704981 0
@@ -235,7 +227,7 @@
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\object\lookup-setter.js133080709708051329 0
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-select\lib\procedure.d.ts.map133080564534065988 0
 63C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@lmdb133081356328075023 1
-60C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\model.js133083308222276387 0
+60C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\model.js133085110478830884 0
 66C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\sass\.__base.scss133009189260000000 0
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\node-releases\package.json133080564528590624 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\instance\trim.js133080709726179651 0
@@ -268,7 +260,7 @@
 69C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\sass\.__preview.scss133009189260000000 0
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\map\find-key.js133080709688356250 0
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\array\index.js133080709699690861 0
-61C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\config.js133082391266109624 0
+61C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\config.js133090002043071951 0
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\string\includes.js133080709697491628 0
 107C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133080564538345257 0
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\map\map-keys.js133080709708466382 0
@@ -316,7 +308,7 @@
 78C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\svgo\lib\svgo\coa.js133080564533178361 0
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\svgo\plugins\inlineStyles.js133080564534804694 0
 71C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\color-convert133080564530894467 1
-62C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\helpers.js133081499961031169 0
+62C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\helpers.js133085119885256323 0
 104C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\string\virtual\starts-with.js133080709720593109 0
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\workers\src\child.js133080564531283432 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\internals\enum-bug-keys.js133080709677079693 0
@@ -330,19 +322,20 @@
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@lezer\lr\dist\constants.d.ts133080564531353240 0
 98C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\esnext.symbol.matcher.js133080709685397466 0
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\string\trim-end.js133080709725391549 0
-74C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\views\bookmarksView.js133083288685031349 0
+74C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\views\bookmarksView.js133085114995966856 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\svgo\lib\svgo\css-style-declaration.js133080564534604545 0
 107C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest4.c133080564537497524 0
+67C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\logo.8a7af738.png133089987489446098 0
 79C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\readdirp\package.json133080555180872175 0
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\es.array.for-each.js133080709677538468 0
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\syntax\index.js133080564537367877 0
 102C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\es.number.is-safe-integer.js133080709678735269 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\instance\every.js133080709685955976 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\array\every.js133080709685886748 0
-72C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\views\previewView.js133083270176620226 0
+72C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\views\previewView.js133085113776850890 0
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\string\virtual\trim.js133080709726369143 0
 99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\typed-array\int16-array.js133080709701710235 0
-71C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\views\searchView.js133082234740000473 0
+71C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\views\searchView.js133085112157008149 0
 97C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\type-fest\source\async-return-type.d.ts133080564529398477 0
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\object\define-setter.js133080709674207408 0
 76C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-select\LICENSE133080564527044763 0
@@ -352,7 +345,7 @@
 107C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\es6-string-includes.js133080564541077953 0
 90C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\number\parse-int.js133080709713509765 0
 101C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lmdb\dependencies\lz4\lib\lz4frame_static.h133080564538464946 0
-65C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\views\View.js133083274694194473 0
+65C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\js\views\View.js133090055293404213 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\domutils\lib\manipulation.d.ts133080564534235537 0
 64C:\Users\User\Desktop\JS PRACTICA\18-forkify\src\img\._icons.svg133009189260000000 0
 71C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\dist133080564535632509 1
@@ -385,8 +378,6 @@
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\typed-array\join.js133080709705652018 0
 75C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\yaml\types\set.js133080564536101256 0
 99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\number\min-safe-integer.js133080709710542650 0
-76C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\.package-lock.json133081356329542495 0
-89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\promise\any.js133080709667882114 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\url-search-params133080709699621039 1
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\symbol\for.js133080709692712002 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-what\lib\es\stringify.d.ts.map133080564533317989 0
@@ -448,10 +439,10 @@
 62C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc133080564516453297 1
 67C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@trysound133080564516463275 1
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\set\of.js133080709712000840 0
-81C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\svgo\lib\stringifier.js133080564537437686 0
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\yaml\browser\dist\Schema-e94716c8.js133080564535592625 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\workers\src\backend.js133080564528470948 0
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\syntax\atrule\import.js133080564537078642 0
+81C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\svgo\lib\stringifier.js133080564537437686 0
 111C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\posthtml\node_modules\posthtml-parser\dist\index.d.ts133080564531113886 0
 90C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\iterator\map.js133080709708803801 0
 64C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@types133080564516453297 1
@@ -876,7 +867,6 @@
 80C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\to-regex-range\LICENSE133080555180862199 0
 105C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\transformer-image\src\validateConfig.js133080564531303379 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\string\virtual\pad-start.js133080709713190621 0
-74C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass\.__upload.scss133009189320000000 0
 80C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lmdb\dependencies\lmdb133080564528381189 1
 81C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\utility-types\README.md133080564532809360 0
 64C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\stable133080564529338634 1
@@ -893,6 +883,9 @@
 76C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\README.md133080564538983599 0
 72C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\to-regex-range133080555180882152 1
 72C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\yaml\schema.js133080564535792077 0
+91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\syntax\node\Ratio.js133080564538365208 0
+83C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@types\parse-json\LICENSE133080564527074696 0
+63C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\tslib133080564532370527 1
 67C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\type-fest133080564533337948 1
 117C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.1133080564533726897 0
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\compressor-raw\src133080564528401137 1
@@ -1188,7 +1181,6 @@
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\symbol\to-primitive.js133080709723962132 0
 108C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext133080564540270110 1
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\xxhash-wasm\esm\xxhash-wasm.js.map133080564530944337 0
-71C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\controller.js132886955200000000 0
 76C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\dom-serializer\lib133080564533218254 1
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\xxhash-wasm\cjs\xxhash-wasm.js133080564527314037 0
 82C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\term-size\vendor\windows133080564530425723 1
@@ -1280,7 +1272,6 @@
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\binary-extensions\readme.md133080555180941985 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\svgo\plugins\removeAttributesBySelector.js133080564536091281 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\internals\is-symbol.js133080709704183101 0
-56C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\._src133009189280000000 0
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\sass\types\legacy\render.d.ts133080555183391348 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\graph\lib\AdjacencyList.js133080564529059377 0
 90C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\es.math.hypot.js133080709678346307 0
@@ -1297,7 +1288,6 @@
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\svgo\plugins\_transforms.js133080564531293398 0
 97C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\csso\lib\restructure\6-restructBlock.js133080564530894467 0
 109C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\esnext.iterator.as-indexed-pairs.js133080709683751880 0
-69C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\img\._logo.png133009189300000000 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\string\sup.js133080709721871500 0
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\instance\reverse.js133080709716914387 0
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\array\reverse.js133080709716884468 0
@@ -1379,7 +1369,7 @@
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\type-fest\source\package-json.d.ts133080564534444978 0
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\lib\_throw.js133080564537457628 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\type-fest\source\partial-deep.d.ts133080564534534744 0
-72C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\index.f7626f62.css.map133082143370244786 0
+72C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\index.f7626f62.css.map133090051123622933 0
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\type-fest\source\promise-value.d.ts133080564534774098 0
 90C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\internals\classof-raw.js133080709670854168 0
 78C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\globals\package.json133080564529248882 0
@@ -1540,7 +1530,6 @@
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\src\_async_iterator.mjs133080564538095925 0
 82C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\normalize-path\README.md133080555180902092 0
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\async-iterator\some.js133080709719311387 0
-70C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass\_base.scss132886955200000000 0
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\terser\lib\compress\inline.js133080564536081308 0
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\terser\lib\compress\native-objects.js133080564536370541 0
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\internals\is-big-int-array.js133080709702184664 0
@@ -1759,7 +1748,6 @@
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\es.string.replace.js133080709680959327 0
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\syntax\pseudo\not.js133080564537936358 0
 75C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\parcel\lib\bin.js133080564527972294 0
-63C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views133009903861572254 1
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\object\assign.js133080709669029044 0
 78C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\msgpackr-extract\bin133080564532829296 1
 125C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one\package.json133080564540499499 0
@@ -1777,7 +1765,6 @@
 79C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@babel\code-frame\lib133080564528172168 1
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\reflect\set.js133080709717933897 0
 101C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\source-map-support\register-hook-require.js133080564528062036 0
-71C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\index.62406edb.js.map133080686426909338 0
 97C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\common\OffsetToLocation.js133080564538145796 0
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\promise\all-settled.js133080709667543013 0
 81C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\parse-json\package.json133080564528181726 0
@@ -2079,7 +2066,7 @@
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\posthtml-parser\dist\index.js133080564528351267 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\reflect\index.js133080709701271410 0
 98C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\posthtml-parser\dist\location-tracker.js133080564528969613 0
-68C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\icons.dfd7a6db.svg133082143370762759 0
+68C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\icons.dfd7a6db.svg133090051123952474 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\es.array.concat.js133080709677348982 0
 76C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\msgpackr\pack.d.ts133080564535522814 0
 82C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\is-arrayish\package.json133080564527064721 0
@@ -2154,6 +2141,9 @@
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\regions\LB.js133080564542653734 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\msgpackr\dist\index.min.js.map133080564534065988 0
 80C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\picomatch\lib\utils.js133080555181051697 0
+93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\string\trim-start.js133080709726149717 0
+114C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest.c133080564537298057 0
+97C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\definition-syntax\index.js133080564537178378 0
 81C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\picocolors\package.json133080564528720280 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\string\from-code-point.js133080709693040929 0
 90C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\picocolors\picocolors.browser.js133080564527623212 0
@@ -2246,7 +2236,6 @@
 79C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\CHANGELOG.md133080564538963607 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\instance\to-sorted.js133080709724321456 0
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\ordered-binary\tests\test.js133080564530306041 0
-77C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views\searchView.js132886955200000000 0
 103C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\fs-search\fs-search.darwin-arm64.node133080564531622520 0
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\ordered-binary\dist\index.cjs133080564527862571 0
 107C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133080564537567341 0
@@ -2593,15 +2582,11 @@
 117C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.1133080564534425029 0
 102C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\es6-generators.js133080564541048033 0
 106C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\internals\iterator-create-constructor.js133080709704721916 0
-72C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass\_upload.scss132886955200000000 0
 117C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.c133080564536141154 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@types\parse-json\package.json133080564528760180 0
 90C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\composite-symbol.js133080709671572248 0
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\utils\test\throttle.test.js133080564537497524 0
 113C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h133080564538534750 0
-93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\string\trim-start.js133080709726149717 0
-114C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest.c133080564537298057 0
-97C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\definition-syntax\index.js133080564537178378 0
 136C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file\package.json133080564538026119 0
 115C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c133080564537467613 0
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\observable133080709699491406 1
@@ -2722,7 +2707,6 @@
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\typed-array\uint16-array.js133080709726698266 0
 80C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lightningcss\README.md133080564530704981 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lightningcss\node\browserslistToTargets.js133080564528361240 0
-68C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\._model.js133009189280000000 0
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\async-iterator\index.js133080709699730745 0
 81C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\json5\dist\index.min.js133080564530465620 0
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lightningcss\node\index.js133080564528989559 0
@@ -2737,7 +2721,6 @@
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\lightningcss\node\targets.d.ts133080564531891802 0
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\workers\src\bus.js133080564530216289 0
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\syntax\config\lexer.js133080564537617215 0
-61C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\index.html132886955200000000 0
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\watcher\prebuilds\darwin-x64133080564535921736 1
 68C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\json5\dist133080564533347908 1
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\array-buffer\slice.js133080709718792538 0
@@ -2892,7 +2875,6 @@
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\internals\engine-is-node.js133080709676442063 0
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\workers\src\Handle.js133080564533337948 0
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\htmlparser2\lib\Parser.d.ts133080564533218254 0
-68C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\img\icons.svg132886955200000000 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\htmlparser2\lib\Parser.d.ts.map133080564532181024 0
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\htmlparser2\lib\WritableStream.d.ts133080564533567319 0
 97C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\htmlparser2\lib\WritableStream.d.ts.map133080564532589933 0
@@ -2907,7 +2889,6 @@
 75C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\htmlnano\index.js133080564532739535 0
 97C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\typed-array\copy-within.js133080709672968521 0
 70C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\htmlnano\lib133080564532560012 1
-74C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass\.__header.scss133009189300000000 0
 101C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\lib\requests\PackageRequest.js133080564538056032 0
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\error\constructor.js133080709672410011 0
 73C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\watcher133080564537397793 1
@@ -2949,7 +2930,6 @@
 103C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\htmlnano\lib\modules\removeEmptyAttributes.js133080564534444978 0
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\domutils\lib\querying.d.ts133080564534325293 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\htmlnano\lib\modules\removeOptionalTags.js133080564534544708 0
-74C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass\.__recipe.scss133009189300000000 0
 105C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\htmlnano\lib\modules\sortAttributesWithLists.js133080564534944356 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\htmlnano\docs\docusaurus.config.js133080564532101244 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\es.reflect.own-keys.js133080709680171431 0
@@ -3060,11 +3040,11 @@
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\string\virtual\code-point-at.js133080709671083552 0
 99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\syntax\pseudo\nth-of-type.js133080564538046058 0
 80C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\escalade\sync\index.js133080564528421081 0
-61C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\.gitignore132886955200000000 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\documenthead.js133080564540828620 0
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\clear-immediate.js133080709670914021 0
 81C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\escalade\dist\index.mjs133080564530655119 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\internals\array-sort.js133080709668650065 0
+68C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\icons.c14567a0.svg133089987498174585 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\watcher\src\Watcher.hh133080564534754147 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-select\lib\pseudo-selectors\index.d.ts133080564535014162 0
 74C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\error-ex\LICENSE133080564528172168 0
@@ -3128,6 +3108,7 @@
 81C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\dotenv-expand\README.md133080564529657775 0
 90C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\array\iterator.js133080709705342842 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\esnext.map.includes.js133080709684390144 0
+68C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\index.20899e4e.css133089987498163214 0
 74C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\dotenv\config.js133080564528251538 0
 68C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\dotenv\lib133080564531423055 1
 72C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\dotenv\LICENSE133080564528820015 0
@@ -3279,7 +3260,6 @@
 70C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\csso\LICENSE133080564527034789 0
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\string\virtual\at.js133080709669797025 0
 102C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\string\virtual\match-all.js133080709709182793 0
-70C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\img\favicon.png132886955200000000 0
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\array\virtual\flat.js133080709691394513 0
 78C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\csso\lib\compress.js133080564533667052 0
 75C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\csso\lib\index.js133080564535562693 0
@@ -3290,7 +3270,6 @@
 98C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\object\define-getter.js133080709673457208 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\cosmiconfig\dist\cacheWrapper.d.ts.map133080564532619853 0
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\proposals\index.js133080709700912001 0
-76C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass\_components.scss132886955200000000 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\string\split.js133080709720234060 0
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\csso\lib\restructure\1-mergeAtrule.js133080564527982248 0
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\src\public\Target.js133080564539083285 0
@@ -3404,12 +3383,10 @@
 99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\src\_array_like_to_array.mjs133080564537946323 0
 82C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\array\find.js133080709689146101 0
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\walker\index.js133080564537517475 0
-62C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\._README.md133009189260000000 0
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\package-manager\lib133080564536909097 1
 97C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\utils\createCustomError.js133080564534804694 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\typed-array\every.js133080709685866227 0
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\utils\names.js133080564537906430 0
-60C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\README.md132886955200000000 0
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\syntax\atrule133080564538614540 1
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\syntax\pseudo133080564538534750 1
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133080564531642477 0
@@ -3437,7 +3414,7 @@
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\src\_throw.mjs133080564539232886 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\typed-array\to-spliced.js133080709724545343 0
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\array\every.js133080709686025771 0
-70C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\favicon.8b2f57bf.png133082143370803456 0
+70C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\favicon.8b2f57bf.png133090051122815101 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\regions\KM.js133080564542593895 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-tree\lib\generator\index.js133080564537208298 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\internals\well-known-symbol.js133080709728993089 0
@@ -3521,7 +3498,6 @@
 97C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\object\iterate-keys.js133080709704622193 0
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-select\lib\procedure.d.ts133080564535093947 0
 105C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\esnext.typed-array.to-sorted.js133080709685576979 0
-63C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\._.gitignore133009189260000000 0
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-select\lib\procedure.js133080564532081300 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\instance\find-last-index.js133080709688396161 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\css-select\lib\pseudo-selectors133080564535552721 1
@@ -3715,6 +3691,7 @@
 103C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\symbol\is-concat-spreadable.js133080709702604277 0
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\symbol\iterator.js133080709705402709 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\symbol\match-all.js133080709709621616 0
+70C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\favicon.76dd299c.png133089987473142578 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\symbol\split.js133080709720424275 0
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\string\bold.js133080709670594864 0
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\math\acosh.js133080709667243816 0
@@ -3740,6 +3717,7 @@
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\string\trim-right.js133080709725940282 0
 80C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\commander\package.json133080564529827329 0
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\string\trim.js133080709726359155 0
+96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\async-iterator\map.js133080709708763915 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\packager-js\lib\dev-prelude.js133080564529298757 0
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\string\virtual133080709726369143 1
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\src\_async_generator.mjs133080564538066009 0
@@ -3758,7 +3736,7 @@
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\regexp\split.js133080709720393626 0
 76C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\acorn\package.json133080564531592623 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\regexp\sticky.js133080709720762642 0
-68C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\icons.21bad73c.svg133082143370883190 0
+68C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\icons.21bad73c.svg133090051124410174 0
 81C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\fs\src\index.js133080564531133837 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\esnext.map.find-key.js133080709684340280 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\string\pad-end.js133080709712552322 0
@@ -3957,6 +3935,7 @@
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\array\concat.js133080709671771716 0
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\array\copy-within.js133080709672978499 0
 83C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\set\index.js133080709700491869 0
+67C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\index.1dd7f06b.js133089987498193115 0
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\utils\test\collection.test.js133080564532340604 0
 97C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\es.string.trim-start.js133080709681238576 0
 90C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\src\ParcelConfig.js133080564538325310 0
@@ -4036,7 +4015,6 @@
 102C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\array\virtual\reduce-right.js133080709715561832 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\array\virtual\reduce.js133080709715920871 0
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\array\virtual\slice.js133080709718812484 0
-78C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views\resultsView.js132886955200000000 0
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\array\virtual\some.js133080709719401161 0
 75C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@babel\code-frame133080564528760180 1
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\stable\array\virtual\sort.js133080709719824460 0
@@ -4349,7 +4327,6 @@
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\lib\_sliced_to_array.js133080564537337950 0
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\typed-array\of.js133080709711862791 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\es.typed-array.from.js133080709682285782 0
-78C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass\.__components.scss133009189300000000 0
 102C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\es.typed-array.int8-array.js133080709682375535 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\regions\KY.js133080564542623816 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\es.typed-array.iterator.js133080709682395482 0
@@ -4510,7 +4487,6 @@
 98C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\esnext.set.difference.js133080709685048385 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\esnext.set.find.js133080709685118212 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\esnext.set.from.js133080709685128174 0
-61C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\._sass133009189300000000 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\esnext.set.intersection.js133080709685138149 0
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\weak-set\of.js133080709712183313 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\modules\esnext.set.is-subset-of.js133080709685178073 0
@@ -4612,7 +4588,6 @@
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\package-manager\test133080564535173736 1
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\bigint\range.js133080709715171078 0
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\internals\collection-from.js133080709671352830 0
-68C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\package-lock.json132886955200000000 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\internals\collection-of.js133080709671402713 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\internals\collection-strong.js133080709671422641 0
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\lib\Parcel.js133080564538165739 0
@@ -4714,7 +4689,6 @@
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\object\lookup-getter.js133080709707981514 0
 104C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\internals\normalize-string-argument.js133080709710683922 0
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\map\merge.js133080709710178189 0
-69C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass\main.scss132886955200000000 0
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\src\worker.js133080564539781422 0
 103C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\payment-request.js133080564544600418 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\internals\not-a-nan.js133080709710693874 0
@@ -5050,7 +5024,6 @@
 76C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\graph\test133080564532719597 1
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\reflect\prevent-extensions.js133080709713891335 0
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\reflect\set.js133080709717953850 0
-67C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\index.62406edb.js133080686426859480 0
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\reflect\to-string-tag.js133080709724811426 0
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\promise\all-settled.js133080709667612857 0
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\promise\try.js133080709726498781 0
@@ -5160,6 +5133,9 @@
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\instance\flags.js133080709690380842 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\json.js133080564542474229 0
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\instance\flat.js133080709691364591 0
+91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\array\last-index-of.js133080709706702656 0
+81C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\symbol133080709727273690 1
+98C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\instance\group-by-to-map.js133080709695200552 0
 98C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\string\virtual\small.js133080709718982041 0
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\instance\group-to-map.js133080709695553902 0
 136C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main\package.json133080564538285423 0
@@ -5209,7 +5185,7 @@
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\date\to-primitive.js133080709723912272 0
 102C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\css-line-clamp.js133080564539542059 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\data-view\index.js133080709699781791 0
-71C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\index.e37f48ea.js.map133083115688987385 0
+71C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\index.e37f48ea.js.map133090051124219487 0
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\bigint\index.js133080709699750720 0
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\async-iterator\drop.js133080709675434089 0
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\utils\src\is-url.js133080564536500184 0
@@ -5235,7 +5211,6 @@
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\array\includes.js133080709697691097 0
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\object\from-entries.js133080709693081089 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\typed-array\filter-out.js133080709687033083 0
-79C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views\._searchView.js133009189300000000 0
 103C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\contenteditable.js133080564538534750 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\array-buffer\is-view.js133080709704232972 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\full\array\iterator.js133080709705223167 0
@@ -5306,7 +5281,6 @@
 81C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\object133080709727943802 1
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\package-manager\lib\types.d.ts133080564536929042 0
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\parse-int.js133080709713499789 0
-80C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views\._previewView.js133009189300000000 0
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\queue-microtask.js133080709715031438 0
 78C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\set133080709727097443 1
 99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\function\has-instance.js133080709696403634 0
@@ -5479,7 +5453,6 @@
 73C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\math133080709726389088 1
 99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\object\iterate-values.js133080709704652098 0
 103C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\object\prevent-extensions.js133080709713852281 0
-72C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\img\._favicon.png133009189300000000 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\object\seal.js133080709717165702 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\json\index.js133080709699381692 0
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\object\values.js133080709727943802 0
@@ -5555,7 +5528,6 @@
 99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\function\virtual\bind.js133080709670245797 0
 102C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\function\virtual\un-this.js133080709726947843 0
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\error\to-string.js133080709725040810 0
-81C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass\.__searchResults.scss133009189300000000 0
 102C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\dom-collections\for-each.js133080709692112600 0
 116C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate.js133080564543052666 0
 99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\dom-collections\index.js133080709699271977 0
@@ -5569,7 +5541,6 @@
 98C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\async-iterator\index.js133080709699181259 0
 101C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\typed-array\float32-array.js133080709691454354 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\async-iterator\indexed.js133080709701520718 0
-96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\async-iterator\map.js133080709708763915 0
 99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\async-iterator\reduce.js133080709715731385 0
 101C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\async-iterator\to-array.js133080709722610583 0
 102C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\features\array-buffer\constructor.js133080709672120779 0
@@ -5719,7 +5690,6 @@
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\string\ends-with.js133080709675743270 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\string\fontcolor.js133080709691663794 0
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\string\fontsize.js133080709691823382 0
-63C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\package.json132886955200000000 0
 90C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\array\group-by.js133080709695210525 0
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\string\includes.js133080709697551476 0
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\string\italics.js133080709704462602 0
@@ -5784,7 +5754,6 @@
 87C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@babel\highlight\lib\index.js133080564528321699 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\reflect\get-prototype-of.js133080709694726702 0
 83C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\reflect\has.js133080709696963054 0
-71C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views\View.js132886955200000000 0
 98C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\utils\src\generateCertificate.js133080564534016199 0
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\reflect\index.js133080709698961526 0
 98C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\es\reflect\prevent-extensions.js133080709713841479 0
@@ -6072,7 +6041,6 @@
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\typed-array\values.js133080709727802667 0
 97C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\symbol\async-iterator.js133080709669238500 0
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\symbol\has-instance.js133080709696151963 0
-70C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\._package-lock.json133009189260000000 0
 103C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\symbol\is-concat-spreadable.js133080709702504125 0
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\symbol\iterator.js133080709704982434 0
 88C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\core-js\actual\symbol\split.js133080709720263979 0
@@ -6404,6 +6372,7 @@
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\regions\CR.js133080564538614540 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\regions\CV.js133080564540419720 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\regions\CZ.js133080564540439664 0
+72C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\index.20899e4e.css.map133089987498462382 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\regions\DJ.js133080564540688999 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\regions\DM.js133080564540708938 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\regions\DZ.js133080564540908409 0
@@ -6453,7 +6422,6 @@
 102C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\css-dir-pseudo.js133080564539163076 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\regions\MG.js133080564543162372 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\regions\MH.js133080564543182347 0
-68C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\helpers.js132886955200000000 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\regions\MK.js133080564543212262 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\regions\ML.js133080564543222221 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\regions\MM.js133080564543232198 0
@@ -6545,9 +6513,7 @@
 104C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\beforeafterprint.js133080564537098590 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\bloburls.js133080564537337950 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\border-image.js133080564537467613 0
-65C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\._views133009189280000000 0
 101C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\border-radius.js133080564537487555 0
-67C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\img\logo.png132886955200000000 0
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\brotli.js133080564537577310 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\calc.js133080564537876514 0
 103C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\canvas-blending.js133080564537906430 0
@@ -6643,7 +6609,6 @@
 99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\css-regions.js133080564539831286 0
 104C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\css-revert-value.js133080564539851232 0
 101C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\css-scrollbar.js133080564539901099 0
-72C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass\.__base.scss133009189320000000 0
 101C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\css-selection.js133080564539931020 0
 98C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\css-shapes.js133080564539941000 0
 99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\css-subgrid.js133080564539960944 0
@@ -6783,9 +6748,7 @@
 110C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\prefers-reduced-motion.js133080564544747901 0
 99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\textencoder.js133080564547441751 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\progress.js133080564544757863 0
-80C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views\addRecipeView.js132886955200000000 0
 103C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\promise-finally.js133080564544767831 0
-58C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\img133009903862340855 1
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\promises.js133080564544767831 0
 97C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\proximity.js133080564544777834 0
 135C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module\module.js133080564537218276 0
@@ -6826,7 +6789,6 @@
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\svg-img.js133080564546792504 0
 83C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\fs\lib\types.d.ts133080564533806681 0
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\svg.js133080564546852308 0
-79C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views\._recipeView.js133009189300000000 0
 101C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\tabindex-attr.js133080564546988412 0
 105C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\template-literals.js133080564547098080 0
 96C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\caniuse-lite\data\features\template.js133080564547132225 0
@@ -6885,7 +6847,6 @@
 97C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\packager-svg\src\SVGPackager.js133080564528510847 0
 82C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\buffer-from\package.json133080564528131850 0
 81C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\browserslist\browser.js133080564527752865 0
-75C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass\.__preview.scss133009189300000000 0
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@jridgewell\resolve-uri\package.json133080564528321699 0
 77C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\browserslist\cli.js133080564528261507 0
 90C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\resolver-default\LICENSE133080564527214304 0
@@ -6902,14 +6863,12 @@
 74C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\braces\README.md133080555180951963 0
 165C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\subfolder1\subfolder2\subfile.js133080564537746858 0
 79C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\braces\lib\compile.js133080555181011802 0
-57C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js133009903859765748 1
 81C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\braces\lib\constants.js133080555181021777 0
 81C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\braces\lib\stringify.js133080555181330949 0
 79C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\boolbase\package.json133080564527024811 0
 98C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\binary-extensions\binary-extensions.json133080555180872175 0
 103C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\binary-extensions\binary-extensions.json.d.ts133080555180972335 0
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\binary-extensions\index.d.ts133080555181001844 0
-66C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\model.js132886955200000000 0
 125C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\foo133080564530804708 1
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\binary-extensions\index.js133080555180832279 0
 83C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\binary-extensions\license133080555180792386 0
@@ -6981,7 +6940,6 @@
 105C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\node-resolver-core\test\fixture\env-dep133080564537936358 1
 98C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\src\_is_native_function.mjs133080564538893790 0
 107C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\src\_is_native_reflect_construct.mjs133080564538923712 0
-69C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\._config.js133009189280000000 0
 103C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\src\_iterable_to_array_limit.mjs133080564538973589 0
 83C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\src\_jsx.mjs133080564539013475 0
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\src\_object_spread.mjs133080564539093260 0
@@ -6999,7 +6957,6 @@
 103C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\lib\_async_generator_delegate.js133080564530655119 0
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\lib\_async_iterator.js133080564531452979 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\lib\_await_async_generator.js133080564532061354 0
-82C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views\._addRecipeView.js133009189300000000 0
 90C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\lib\_await_value.js133080564532260815 0
 105C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\lib\_class_apply_descriptor_set.js133080564532929026 0
 108C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@swc\helpers\lib\_class_apply_descriptor_update.js133080564533088609 0
@@ -7140,7 +7097,6 @@
 84C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\utils\package.json133080564537627184 0
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\test\fixtures\bundle.js133080564535612566 0
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\utils\test\config.test.js133080564532819321 0
-73C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views\._View.js133009189300000000 0
 101C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map133080564534444978 0
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\utils\test\DefaultMap.test.js133080564533437669 0
 107C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\utils\test\input\sourcemap\source-root.js133080564537337950 0
@@ -7153,7 +7109,6 @@
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\utils\test\input\sourcemap133080564538305373 1
 110C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js133080564537118539 0
 111C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\utils\test\input\sourcemap\source-root.js.map133080564538305373 0
-80C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views\._resultsView.js133009189300000000 0
 100C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\utils\test\input\config\config.cjs133080564528630520 0
 101C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\utils\test\input\config\config.json133080564537577310 0
 89C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\utils\src\countLines.js133080564532958946 0
@@ -7251,7 +7206,6 @@
 108C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts133080564537896454 1
 107C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\source-map\parcel_sourcemap_node\build.js133080564531612550 0
 107C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\source-map\parcel_sourcemap_node\build.rs133080564538175715 0
-59C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass133009903863779864 1
 107C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133080564531931693 0
 102C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\source-map\parcel_sourcemap_node\src133080564538195659 1
 99C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\optimizer-image\lib\loadNative.js133080564528401137 0
@@ -7321,7 +7275,6 @@
 110C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@babel\highlight\node_modules\chalk\types\index.d.ts133080564531233563 0
 83C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\reporter-cli\test133080564531991533 1
 98C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\reporter-cli\src\bundleReport.js133080564527942373 0
-65C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\._package.json133009189280000000 0
 97C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\reporter-cli\src\CLIReporter.js133080564531712280 0
 92C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\reporter-cli\src\render.js133080564532629834 0
 76C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\plugin\lib133080564527762844 1
@@ -7373,7 +7326,6 @@
 93C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\package-manager\src\Pnpm.js133080564534914431 0
 107C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\package-manager\src\promiseFromProcess.js133080564534954324 0
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\package-manager\src\types.js133080564535004190 0
-79C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass\_searchResults.scss132886955200000000 0
 94C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\package-manager\lib\index.js133080564530465620 0
 98C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\package-manager\lib\index.js.map133080564536809365 0
 86C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\optimizer-terser\lib133080564527772812 1
@@ -7383,7 +7335,6 @@
 85C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\optimizer-image\lib133080564528261507 1
 91C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\optimizer-image\native.js133080564529069346 0
 110C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\optimizer-image\parcel-image.darwin-x64.node133080564535642486 0
-62C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\.prettierrc132886955200000000 0
 119C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\optimizer-image\parcel-image.linux-arm-gnueabihf.node133080564536639821 0
 115C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-gnu.node133080564537288094 0
 95C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\test\PublicAsset.test.js133080564538624514 0
@@ -7406,7 +7357,6 @@
 113C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\node-resolver-core\test\fixture\packages\source133080564538674375 1
 124C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob133080564538644457 1
 137C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\package.json133080564538644457 0
-76C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\18-forkify.3464ddca.js.map133080565002252550 0
 136C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src\test.js133080564537826652 0
 127C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\dist.js133080564534385133 0
 132C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\package.json133080564538664413 0
@@ -7549,7 +7499,6 @@
 135C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines133080564540469574 1
 148C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\package.json133080564540479557 0
 149C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\package.json133080564540469574 0
-72C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass\_recipe.scss132886955200000000 0
 104C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\test\fixtures\parcel\package.json133080564540459611 0
 106C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\test\fixtures\main-mjs\package.json133080564540459611 0
 118C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json133080564540439664 0
@@ -7726,23 +7675,8 @@
 73C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\.bin\semver.ps1133080564551019726 0
 67C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\.bin\svgo133080564551019726 0
 73C:\Users\User\Desktop\JS PRACTICA\18-forkify\node_modules\.bin\terser.cmd133080564551019726 0
-64C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\._.prettierrc133009189280000000 0
-63C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\._index.html133009189260000000 0
-60C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\._img133009189300000000 0
-59C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\._js133009189280000000 0
-71C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass\._main.scss133009189300000000 0
-72C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass\_header.scss132886955200000000 0
-73C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\sass\_preview.scss132886955200000000 0
-73C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\._controller.js133009189280000000 0
-70C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\._helpers.js133009189280000000 0
-67C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\config.js132886955200000000 0
-82C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views\._bookmarksView.js133009189280000000 0
-83C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views\._paginationView.js133009189280000000 0
-80C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views\bookmarksView.js132886955200000000 0
-81C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views\paginationView.js132886955200000000 0
-78C:\Users\User\Desktop\JS PRACTICA\18-forkify\final\src\js\views\previewView.js132886955200000000 0
-72C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\18-forkify.3464ddca.js133080565002212655 0
-67C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\index.e37f48ea.js133083115688797459 0
-68C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\index.f7626f62.css133082143370164366 0
-60C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\index.html133082301203350121 0
-67C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\logo.726d37a8.png133082143370204235 0
+71C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\index.1dd7f06b.js.map133089987498462382 0
+67C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\index.e37f48ea.js133090051124169591 0
+68C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\index.f7626f62.css133090051123593020 0
+60C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\index.html133090051123962003 0
+67C:\Users\User\Desktop\JS PRACTICA\18-forkify\dist\logo.726d37a8.png133090051123732623 0
